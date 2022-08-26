@@ -1,3 +1,5 @@
+This is a partnership project done by Emmanuel and Empress.
+
 This repository contains various c tasks on simple shell. They include;
 
 
