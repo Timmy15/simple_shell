@@ -40,4 +40,4 @@ int main(int ac, char **av)
 	populate_env_list(info);
 	read_history(info);
 	hsh(info, av);
-	return (EXIT_SUCCESS);
+}	return (EXIT_SUCCESS);
