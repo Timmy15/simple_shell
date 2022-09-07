@@ -155,4 +155,4 @@ void free_list(list_t **head_ptr)
 		free(node);
 		node = next_node;
 	}
-	*head_ptr = NULL;
+}	*head_ptr = NULL;
